@@ -15,7 +15,7 @@ use App\Http\Controllers\TasksController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 /* Routes grouped to apply auth:sanctum and verified middleware to restrict pages to verified users */
