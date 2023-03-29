@@ -5,7 +5,7 @@
       <h1 class="text-center">
         <x-application-logo />
       </h1>
-      <p class="text-lg text-center text-gray-600 mt-4">
+      <p class="text-lg font-bold text-center text-gray-600 mt-4">
         The desktop companion to get things done!
       </p>
     </header>
